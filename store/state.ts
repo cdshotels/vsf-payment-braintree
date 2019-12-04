@@ -1,5 +1,5 @@
-import { BraintreeState } from '../types/BraintreeState'
+import { BraintreeState } from '../types/BraintreeState';
 
 export const state: BraintreeState = {
-    trans: null
-}
+  trans: null
+};

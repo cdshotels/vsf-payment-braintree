@@ -1,4 +1,4 @@
-import { BraintreeState } from '../types/BraintreeState'
+import { BraintreeState } from '../types/BraintreeState';
 import { GetterTree } from 'vuex';
 
-export const getters: GetterTree<BraintreeState, any> = {}
+export const getters: GetterTree<BraintreeState, any> = {};
