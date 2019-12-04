@@ -37,9 +37,11 @@ Add the endpoint to your config
 
 ### Storefront package.json dependencies
 
-"braintree": "^2.21.0",
-"braintree-web": "^3.55.0",
-"braintree-web-drop-in": "^1.21.0",
+```json
+  "braintree": "^2.21.0",
+  "braintree-web": "^3.55.0",
+  "braintree-web-drop-in": "^1.21.0"
+```
 
 ## Braintree payment API extension
 
@@ -68,7 +70,9 @@ Add the config to your api config `local.json`
 
 ### API package.json dependencies
 
-"braintree": "^2.21.0"
+```json
+  "braintree": "^2.21.0"
+```
 
 ## Braintree payment Checkout Review
 
